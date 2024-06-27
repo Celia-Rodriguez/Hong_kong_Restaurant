@@ -3,6 +3,7 @@
 ## Contenidos
   - [Descripción](#description)
   - [Wireframes](#wireframes)
+  - [Vista previa](#vista-previa)
   - [Tecnologías ](#Tecnologías)
   - [Autoría y Créditos](#auditoría-y-créditos)
 
@@ -17,6 +18,16 @@ La temática está ambientada en el año nuevo chino por lo que contiene imágen
 Diseño previo de la nueva estructura que tendrá la página del restaurante.
 
 <img src="readme-img/Wireframe_proyecto_HKR.png" alt="wireframe de la web" height="800px">
+
+## Vista previa
+
+Aquí se muestran unos mock ups de cómo se vería la página en el navegador y en el móvil.
+
+<img src="readme-img/mock_up.png" alt="mock up de la principal" width="500px">
+
+<img src="readme-img/mock_up_2.png" alt="mock up de la carta" width="500px">
+
+<img src="readme-img/mock_up_3.png" alt="mock up de reservas" width="500px">
 
 ## Tecnologías
 
