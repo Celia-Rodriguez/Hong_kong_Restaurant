@@ -4,7 +4,7 @@
   - [Descripción](#description)
   - [Wireframes](#wireframes)
   - [Tecnologías ](#Tecnologías)
-  - [Autoría y Créditos](#Autoría y Créditos)
+  - [Autoría y Créditos](#AutoríayCréditos)
 
 ## Descripción
 
