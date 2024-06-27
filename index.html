@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HONG KONG</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/jpg" href="img/favicon.svg"/>
+ 
+</head>
+<body>
+    <!-- ---------CABECERA --------- -->
+    <header . class="cabecera">
+        <nav class="mainMenu">
+            <ul class="nav-links">
+                <li><a href="index.html">INICIO</a></li>
+                <li><a href="carta.html">CARTA</a></li>
+            </ul> 
+            <div class="logo">
+                <img src="img/logo_letras_a.svg" alt="logo Hong Kong restaurante chino">
+            </div>
+            <ul class="nav-links">
+                <li><a href="#nosotros">NOSOTROS</a></li><!-- LLeva a la seccion nosotros-->
+                <li><a href="reservas.html">RESERVAS</a></li><!-- LLeva a la página reservas-->
+            </ul>
+        </nav>
+
+        <!-- menu responsive -->
+        <nav class="mainMenu-responsive"> 
+            <div class="logo">
+                <img src="img/logo_letras_a.svg" alt="logo Hong Kong restaurante chino">
+            </div>
+            <button class="navbar-toggle" id="btnMenu"> &#8801</button>
+            <ul class="nav-links-responsive">
+                <li><a href="#">INICIO</a></li>
+                <li><a href="carta.html">CARTA</a></li>
+                <li><a href="#nosotros">NOSOTROS</a></li><!-- LLeva a la seccion nosotros-->
+                <li><a href="reservas.html">RESERVAS</a></li><!-- LLeva a la página reservas-->
+            </ul>
+        </nav>
+    </header>
+        <!-- --------- MAIN  --------- -->
+    <main class="cuerpo">
+        <!-- --------- HOMEPAGE  --------- -->
+        <section class="homePage">
+            <img class="img-homePage" src="img/fondo.jpg" alt="prueba" >
+            <div>
+                <!-- ¡Bienvenidos al restaurante Hong Kong! -->
+                <img src="img/happy_2024.svg" alt="">
+                <button class="btn-homePage" onclick="Pedir()">¡PIDE YA!</button> <!-- LLeva a la página reservas-->
+            </div>
+        </section>
+        <!-- --------- SHOWPLATOS  --------- -->
+        <div class="line"></div>
+        <section class="showPlatos">  
+            <div class="showPlatos_titulo">
+                <h1>NUESTROS PLATOS</h1>
+            </div>
+            <div class="showPlatos_contenido">
+                    <div class="primera-Foto"><img class="img-showPlatos" src="img/food/cerdo agridulce.jpg" alt=""></div>
+                    <div class="segunda-Foto"><img class="img-showPlatos" src="img/food/gambas.jpg" alt=""></div>
+                    <div class="tercera-Foto">
+                        <img class="img-showPlatos" src="img/food/servilleta.jpg" alt="">
+                        <img class="img-showPlatos" src="img/food/botella.jpg" alt="">
+                    </div>
+                    <div class="cuarta-Foto"><img class="img-showPlatos" src="img/food/arroz.jpg" alt=""></div>
+                    <div class="quinta-Foto"><img class="img-showPlatos" src="img/cartel.png" alt=""></div>
+                    <div class="titulo_contenido_showPlatos img-showPlatos" id="platos"><h2>VER CARTA</h2></div>
+                    <div class="sexta-Foto"><img class="img-showPlatos" src="img/mesa_grupo.jpg" alt=""></div>
+                    <div class="septima-Foto"><img class="img-showPlatos" src="img/food/dumplings.jpg" alt=""></div>
+                    <div class="octava-Foto">
+                        <img class="img-showPlatos" src="img/faroles.jpg" alt="">
+                        <img class="img-showPlatos" src="img/food/palillos.jpg" alt="">
+                    </div>
+                     <div class="novena-Foto"><img class="img-showPlatos" src="img/food/tetera.jpg" alt=""></div>
+                     <div class="decima-Foto"><img class="img-showPlatos" src="img/food/sopa_huevo.jpg" alt=""></div>
+            </div>
+        </section>
+        <!-- --------- ABOUT US  --------- -->
+        <div class="line"></div>
+        <section class="aboutUs" id ="nosotros">
+            <div class="aboutUs_titulo">
+                <h1>Sobre Nosotros</h1>
+            </div>
+            <div class="aboutUs_info">
+                <img src="img/fondo_rpueba.jpg" alt="fachada">
+                <div class="aboutUs_txt">
+                    <h2>HONG KONG</h2>
+                    <h4>Restaurante</h4>
+                    <p>Somos un restaurante chino familiar ubicado en el corazón de la ciudad. El restaurante fue fundado en 2017 por el chef Li Wei, un apasionado de la cocina cantonesa que se mudó a España desde Hong Kong.</p>
+                    <p> Nuestro menú ofrece una variedad de platos tradicionales chinos, preparados con amor y los ingredientes más frescos. Desde nuestros deliciosos rollitos de primavera hasta nuestro famoso pato laqueado, cada plato está diseñado para llevarle en un viaje culinario a través de las diversas regiones de China.</p>
+                    <p>En Hong Kong, nos enorgullece ofrecer un ambiente acogedor y amigable, perfecto para reuniones familiares o cenas íntimas. ¡Esperamos darle la bienvenida a nuestro restaurante y compartir con usted la rica tradición de la cocina china!</p>
+                </div>
+            </div>
+        </section>
+        <!-- --------- DONDE ESTAMOS  --------- -->
+        <div class="line"></div>
+        <section class="situacion">
+            <div class="situacion_titulo">
+                <h1>Dónde Estamos</h1>
+            </div>
+            <div class="situacion_contenedor">
+                <!-- <img src="" alt=""> -->
+                <h2 class="horario_titulo">Horario</h2>
+                <div class="situacion_horario LaJ">
+                    <h3>Lunes a Jueves</h3>
+                    <p>00:00 a 00:00</p>
+                    <p>00:00 a 00:00</p>
+                </div>
+                <div class="situacion_horario VaD">
+                    <h3>Viernes a Domingo</h3>
+                    <p>12:30 a 16:30</p>
+                    <p>20:00 a 24:00</p>
+                </div>
+                <h2 class="direccion_titulo">Dirección</h2>
+                <h3 class="direccion-content">Avda Carlos V, 41
+                    28937, Mótoles, Madrid
+                </h3>
+                <img src="img/map.PNG" alt="">
+            </div>
+        </section>
+    </main>
+    <footer class="pie">
+        <div class="div-pie">
+            <img src="img/logo_letras_a.svg" alt="">
+            <p class="nameowner">created by <a href="https://github.com/Celia-Rodriguez" target="_blank">Celia-Rodriguez</a></p>
+        </div>
+        <div class="div-pie">
+            <p>Avisos Legales</p>
+            <p>Condiciones</p>
+            <p>Politica de Cookies</p>
+        </div>
+        <div class="div-pie">
+            <p>Alérgenos</p>
+            <p>Redes Sociales</p>
+            <p>Contacto</p>
+        </div>
+    </footer>
+    <script src="js/script.js"></script>
+</body>
+</html>
