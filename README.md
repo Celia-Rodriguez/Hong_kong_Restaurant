@@ -3,8 +3,8 @@
 ## Contenidos
   - [Descripción](#description)
   - [Wireframes](#wireframes)
-  - [Tecnologías ](#tecnologias)
-  - [Autoría y Créditos](#autoriaycreaditos)
+  - [Tecnologías ](#Tecnologías)
+  - [Autoría y Créditos](#Autoría y Créditos)
 
 ## Descripción
 
