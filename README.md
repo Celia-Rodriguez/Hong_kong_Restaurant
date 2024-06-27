@@ -28,6 +28,6 @@ Para llevar a cabo este proyecto he utilizado:
       - CSS
       - Javascript (para el menú responsive)
    
-## Auditoría y Créditos
+## Auditoría y Créditos {#AutoríayCréditos}
 
 Este proyecto ha sido creado por mí, sin ánimo de lucro y con la única intención de poder crear una página visualmente atractiva y de fácil navegación.
