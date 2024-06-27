@@ -1,4 +1,4 @@
-# Hong_kong_Restaurant
+# Hong Kong Restaurant
 
 ## Contenidos
   - [Descripción](#description)
@@ -13,4 +13,8 @@ Este proyecto presenta un rediseño conceptual para el restaurante chino "Hong K
 La temática está ambientada en el año nuevo chino por lo que contiene imágenes y mensajes dedicados.
 
 ## Wireframes
+
+Diseño previo de la nueva estructura que tendrá la página del restaurante.
+
+<img src="readme-img/Wireframe_proyecto_HKR.png" alt="wireframe de la web" height="500px">
 
