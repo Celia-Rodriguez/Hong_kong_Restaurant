@@ -16,5 +16,8 @@ La temática está ambientada en el año nuevo chino por lo que contiene imágen
 
 Diseño previo de la nueva estructura que tendrá la página del restaurante.
 
-<img src="readme-img/Wireframe_proyecto_HKR.png" alt="wireframe de la web" height="500px">
+<img src="readme-img/Wireframe_proyecto_HKR.png" alt="wireframe de la web" height="800px">
+
+## Tecnologías
+
 
