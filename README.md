@@ -20,4 +20,14 @@ Diseño previo de la nueva estructura que tendrá la página del restaurante.
 
 ## Tecnologías
 
+Para llevar a cabo este proyecto he utilizado:
+  - IDE
+      - Visual Studio Code
+  - Lenguajes
+      - HTML
+      - CSS
+      - Javascript (para el menú responsive)
+   
+## Auditoría y Créditos
 
+Este proyecto ha sido creado por mí, sin ánimo de lucro y con la única intención de poder crear una página visualmente atractiva y de fácil navegación.
